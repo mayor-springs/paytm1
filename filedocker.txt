@@ -1,0 +1,14 @@
+# this is parcticing my git stash which is said to be saving workdone or saving modifications temporarily in a workspace area.
+so i have copied a code from HTML CODE from a new browser entirely to save right here.
+find below python codes
+
+!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</html>
+<this is an incomplete code!>
+
