@@ -1,0 +1,3 @@
+file7 please work with git diff
+yo
+mama
